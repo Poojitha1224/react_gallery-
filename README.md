@@ -25,14 +25,19 @@ A creative and interactive personal interests gallery built using **React.js**. 
 
 ## 🎨 Gallery Categories
 
-| Title | Category |
-|---|---|
-| Hogwarts | Express |
-| Books | Vibe |
-| Crochet | Hobby |
-| Iceland | Happy Place |
-| New York | Luxury |
-| Science | Research |
+🖼️ Gallery Categories
+
+Nature Escape
+
+Wanderlust
+
+Style Diary
+
+Future Space
+
+Taste Stories
+
+Little Moments
 
 ## 📂 Project Structure
 
