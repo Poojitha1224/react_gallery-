@@ -39,12 +39,12 @@ A creative and interactive personal interests gallery built using **React.js**. 
 ```text
 react_bit/
 ├── public/
-│   ├── harry.jpg
-│   ├── book.jpg
-│   ├── crochet.jpg
-│   ├── iceland.jpg
-│   ├── NYC.jpg
-│   └── scince.jpg
+│   ├── Nature.jpg
+│   ├── Fashion.jpg
+│   ├── Travel.jpg
+│   ├── Food.jpg
+│   ├── Technology.jpg
+│   └── Photography.jpg
 ├── src/
 │   ├── component/
 │   │   └── ChromaGrid.jsx
