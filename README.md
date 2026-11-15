@@ -87,9 +87,9 @@ Visit `http://localhost:5173/` to view the application.
 
 ## 👩‍💻 Author
 
-**Sharanya Gowda**
+**Poojitha.k**
 
-GitHub: [sharanyagowda2025-alt](https://github.com/sharanyagowda2025-alt)
+GitHub: https://github.com/Poojitha1224
 
 ## 📄 License
 
