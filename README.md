@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 GitHub repository content
 origin/main
 # ✨ ChromaGrid – Personal Interests Gallery
@@ -93,3 +94,7 @@ GitHub: [sharanyagowda2025-alt](https://github.com/sharanyagowda2025-alt)
 ## 📄 License
 
 This project is open-source and available under the MIT License.
+=======
+# react_gallery-
+A responsive React-based image gallery featuring a collection of creative visuals, including nature, travel, fashion, technology, food, and photography. Built with React, JavaScript, and CSS, it offers an interactive ChromaGrid layout with attractive hover effects and a modern user-friendly design.
+>>>>>>> 0c942425b949831aea080a5552512e411ed44088
